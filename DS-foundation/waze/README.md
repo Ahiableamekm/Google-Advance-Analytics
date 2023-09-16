@@ -1,4 +1,6 @@
-# Waze
+# 3
+
+![waze](waze.png)
 
 ## Project goal
 
@@ -19,3 +21,21 @@ Assign PACE stages to the requested tasks for the user churn project
 Organize tasks into milestones
 
 Create a project proposal for the Waze data team
+
+## PACE Strategy
+
+| Task | stage |
+|------|-------|
+|Establishing the structure of the project workflow | Plan|
+|Writing a project proposal | Plan|
+|Data Exploration and cleaning | Analyze |
+|conduting hypothesis testing | Analyze|
+|compile summary infomation about the data | Analyze|
+|Visualisation building | Construct|
+|Model building| Construct|
+|Evaluating model | Execute|
+|Communicate final Insight with stakeholders| Execute|
+
+PACE -> `P`lan, `A`nalyze, `C`onstruct and `E`xecute
+
+![image](proposal.png)
