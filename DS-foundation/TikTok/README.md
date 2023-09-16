@@ -1,4 +1,6 @@
-# TikTok
+# 2
+
+![tiktok](tiktoc.png)
 
 ## Project goal
 
@@ -21,3 +23,21 @@ We take into account new considerations from the leadership team, We will create
 3. Organize tasks into milestones
 
 4. Create a project proposal for the TikTok data team
+
+## PACE Strategy
+
+| Task | stage |
+|------|-------|
+|Establishing the structure of the project workflow | Plan|
+|Writing a project proposal | Plan|
+|Data Exploration and cleaning | Analyze |
+|conduting hypothesis testing | Analyze|
+|compile summary infomation about the data | Analyze|
+|Visualisation building | Construct|
+|Model building| Construct|
+|Evaluating model | Execute|
+|Communicate final Insight with stakeholders| Execute|
+
+PACE -> `P`lan, `A`nalyze, `C`onstruct and `E`xecute
+
+![image](proposal.png)
