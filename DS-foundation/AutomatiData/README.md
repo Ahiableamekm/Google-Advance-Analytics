@@ -38,5 +38,5 @@ We are help the clients transform their unused and stored data into useful solut
 
 PACE -> `P`lan, `A`nalyze, `C`onstruct and `E`xecute
 
-[Download PDF](proposal.png)
+![image](proposal.png)
 
