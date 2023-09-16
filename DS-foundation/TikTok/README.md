@@ -1,6 +1,6 @@
 # 2
 
-![tiktok](tiktoc.png)
+![tiktok](tiktok.png)
 
 ## Project goal
 
