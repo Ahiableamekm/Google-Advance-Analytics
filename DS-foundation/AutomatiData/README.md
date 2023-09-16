@@ -1,4 +1,6 @@
-# Google-Advance-Analytics
+# 1
+
+![automatidata](automatiData.png)
 
 ## Project Goal
 
@@ -39,4 +41,3 @@ We are help the clients transform their unused and stored data into useful solut
 PACE -> `P`lan, `A`nalyze, `C`onstruct and `E`xecute
 
 ![image](proposal.png)
-
