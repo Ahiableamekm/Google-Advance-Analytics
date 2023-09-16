@@ -58,6 +58,6 @@ Executing task may involve
 
 ### In this directory three project approach were documented using PACE strategy
 
-1. [AutomatiData](./AutomatiData/README.md)
-2. [AutomatiData](./TikTok/README.md)
-3. [AutomatiData](./waze/README.md)
+1. [AutomatiData](./AutomatiData/)
+2. [TikTok](./TikTok/)
+3. [Waze](./waze/)
