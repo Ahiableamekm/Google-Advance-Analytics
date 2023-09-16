@@ -1,6 +1,6 @@
 # 1
 
-![automatidata](automatiData.png)
+![automatidata](automatiai.png)
 
 ## Project Goal
 
