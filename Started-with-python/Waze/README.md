@@ -1,6 +1,6 @@
 # 3
 
-Previously we complete a `PACE` strategy document and project proposal [Tiktok](../../DS-foundation/waze/). The proposal go a thumbs up and Waze has given access to client data. The task is to Inspect and anlyze the data and provide answers to few questions raised during stakeholder meeting.
+Previously we complete a `PACE` strategy document and project proposal [Waze](../../DS-foundation/waze/). The proposal go a thumbs up and Waze has given access to client data. The task is to Inspect and anlyze the data and provide answers to few questions raised during stakeholder meeting.
 
 **The purpose** of this project is to investigate and understand the data provided.
 
